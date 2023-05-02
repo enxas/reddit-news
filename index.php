@@ -1,7 +1,5 @@
 <?php
 
-// inspired from https://towardsdatascience.com/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c
-
 require 'vendor/autoload.php';
 
 run();

@@ -20,3 +20,8 @@ You can configure what subreddits to fetch and how many listings in `config.json
 Install dependencies with `composer install`  
 
 Now you can run the script with command `php index.php` and see output in `output` directory
+
+### Resources
+
+https://towardsdatascience.com/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c  
+https://github.com/Scresat/Reddit-to-Notion
