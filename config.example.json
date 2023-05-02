@@ -1,0 +1,12 @@
+{
+	"subreddits": ["php", "python"],
+	"reddit": {
+		"client_id": "",
+		"client_secret": "",
+		"username": "",
+		"password": ""
+	},
+	"listings_to_check": 25,
+	"listings_to_get": 15,
+	"timezone": "America/New_York"
+}
